@@ -1,3 +1,4 @@
 pandas
 textblob
 colorama
+streamlit
